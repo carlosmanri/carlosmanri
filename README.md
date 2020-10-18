@@ -28,15 +28,13 @@ I am a software engineering student at the University of Oviedo who is passionat
 
 <img align="left" alt="UO258425's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=UO258425&show_icons=true&hide_border=true" />
 
-<img align="right" alt="UO258425's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uo258425&layout=compact" />
+<img align="center" alt="UO258425's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uo258425&layout=compact" />
 
 <br />
 <br />
 
-
-
-
-You can reach me on <a href="https://www.linkedin.com/in/carlos-manrique-enguita/">
+---
+You can reach me on:  <a href="https://www.linkedin.com/in/carlos-manrique-enguita/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
 <!--

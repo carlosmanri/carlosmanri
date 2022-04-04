@@ -26,7 +26,6 @@ I am a software engineering student at the University of Oviedo who is passionat
 
 ---
 
-<img align="left" alt="UO258425's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=UO258425&show_icons=true&hide_border=true" />
 
 <img align="center" alt="UO258425's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uo258425&layout=compact" />
 

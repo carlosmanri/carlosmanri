@@ -42,5 +42,11 @@ I am a software engineering student at the University of Oviedo who is passionat
 ---
 You can reach me on:  <a href="https://www.linkedin.com/in/carlos-manrique-enguita/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
+
+---
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/carlosmanrique"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="carlosmanrique" /></a></p><br><br>
+
 

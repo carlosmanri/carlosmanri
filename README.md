@@ -1,8 +1,8 @@
 ### Hi there, I'm Carlos Manrique 👋
-[![Visits Badge](https://badges.pufler.dev/visits/uo258425/uo258425)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/uo258425)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/uo258425)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/uo258425)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/carlosmanri/carlosmanri)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/carlosmanri)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/carlosmanri)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/carlosmanri)](https://badges.pufler.dev)
 
 I am a software engineering student at the University of Oviedo who is passionate about technology. I would love to grow professionally giving my best to be a better engineer. 
 

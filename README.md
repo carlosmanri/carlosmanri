@@ -29,6 +29,13 @@ I am a software engineering student at the University of Oviedo who is passionat
 
 <img align="center" alt="UO258425's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uo258425&layout=compact" />
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmanri&show_icons=true&locale=en" alt="carlosmanri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmanri&" alt="carlosmanri" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=carlosmanri)  
+
 <br />
 <br />
 
@@ -36,17 +43,4 @@ I am a software engineering student at the University of Oviedo who is passionat
 You can reach me on:  <a href="https://www.linkedin.com/in/carlos-manrique-enguita/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
-<!--
-**UO258425/UO258425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

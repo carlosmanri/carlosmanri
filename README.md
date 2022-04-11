@@ -27,7 +27,7 @@ I am a software engineering student at the University of Oviedo who is passionat
 ---
 
 
-<img align="center" alt="UO258425's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uo258425&layout=compact" />
+<img align="center" alt="UO258425's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmanri&layout=compact" />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmanri&show_icons=true&locale=en" alt="carlosmanri" /></p>
